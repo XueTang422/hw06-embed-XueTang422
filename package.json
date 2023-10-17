@@ -1,0 +1,14 @@
+{
+  "name": "4fa95452166ceeba",
+  "main": "4fa95452166ceeba@525.js",
+  "version": "525.0.0",
+  "homepage": "https://observablehq.com/d/4fa95452166ceeba",
+  "author": {
+    "name": "class",
+    "url": "https://observablehq.com/@class"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
